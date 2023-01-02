@@ -1,0 +1,15 @@
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/bin/Debug/net7.0/LinkedIn
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/bin/Debug/net7.0/LinkedIn.deps.json
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/bin/Debug/net7.0/LinkedIn.runtimeconfig.json
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/bin/Debug/net7.0/LinkedIn.dll
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/bin/Debug/net7.0/LinkedIn.pdb
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.csproj.AssemblyReference.cache
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.AssemblyInfoInputs.cache
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.AssemblyInfo.cs
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.csproj.CoreCompileInputs.cache
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.dll
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/refint/LinkedIn.dll
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.pdb
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/LinkedIn.genruntimeconfig.cache
+/Users/yoavbeiser/Downloads/program/C#/LinkedIn/LinkedIn/LinkedIn/obj/Debug/net7.0/ref/LinkedIn.dll

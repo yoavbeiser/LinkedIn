@@ -1,6 +1,0 @@
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.csproj.AssemblyReference.cache
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.GeneratedMSBuildEditorConfig.editorconfig
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.AssemblyInfoInputs.cache
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.AssemblyInfo.cs
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.csproj.CoreCompileInputs.cache
-/Users/yoavbeiser/Downloads/program/C#/LinkedInProject/LinkedInProject/obj/Debug/net5.0/LinkedInProject.MvcApplicationPartsAssemblyInfo.cache
